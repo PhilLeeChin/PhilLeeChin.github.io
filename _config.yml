@@ -1,11 +1,11 @@
 # Site settings
 author: Philip Lee-Chin
-title: 
+title: The Journey
 header-img: img/home-bg.png
 email: phil.leechin@outlook.com
 copyright_name: Philip Lee-Chin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Climbing the mountain of codes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  PhilLeeChin
