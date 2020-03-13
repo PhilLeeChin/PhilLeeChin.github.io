@@ -18,9 +18,7 @@ As life keeps hitting me, and like a heavy bag trying to bare me down. My calcul
 
 With so many challenges I can understand why we give in and give up, saying it is too much to bare. I urge you whomever gets to read this blog, nothing in life will come easy, nor will some come at no cost. In the caribbean there is a saying, "if yuh wah gud yuh nose affi run", to translate - sleepless nights, hours of studying, coding, time with family, and time to rest. Nothing comes easy but we must persevere, push on, build that network, that time, that when you on your last leg, that last straw and you feel you have no fight left, trust me they will be right there with you to help you fight on. Always remember there is no "i" in team, but you can get the word meat. - so I urge you don't give up, press on, be strong, build that network or team you need to win.
 
-(M - Motivate						  (T - Together
-E - Encourage						E - Encourage
-A - Appreciate					A - All
-T - Together)						  M - Members)
+MEAT - {M - Motivate, E - Encourage, A - Appreciate, T - Together}
+TEAM - {T - Together, E - Encourage, A - All, M - Members}
 
 Thank you for reading.
