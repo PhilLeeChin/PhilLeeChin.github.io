@@ -5,6 +5,7 @@ date:       2020-03-13 01:37:12 +0000
 permalink:  challenges
 ---
 
+Triumph Over Challenges
 
 Taking on multiple milestones is a challenge especially when those milestones is comprised of college, work, life and an online bootcamp. At the begining of this year I told myself that I will graduate from college by June, leave my current job by the end of this year, and complete the programming course at Flatiron. The first 2 weeks was tough but coming together as a group, making friends and creating a network of like-minded people; with that we were able to pull each other through the crucial first mile that would etch in the stars those who were able to defeat the first mountain.
 
